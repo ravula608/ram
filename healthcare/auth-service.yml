@@ -6,3 +6,4 @@ spring:
 server:
   port: 9000
 
+message: This is from Auth-service COnfig server
